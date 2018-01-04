@@ -1,2 +1,2 @@
 # thesisPublic
-This is the current public draft of my thesis. It's called the kraken. I have a working draft which is not public.
+This is the current public draft of my thesis. It got nicknamed the kraken. Please contact me for a full version or see: https://eprints.soton.ac.uk/397412/
